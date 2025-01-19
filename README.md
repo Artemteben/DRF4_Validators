@@ -1,4 +1,4 @@
-# DRF3
+# DRF4
 
 32.1 Валидаторы, пагинация и тесты
 Валидаторы (validators) в Django REST framework — инструмент,
